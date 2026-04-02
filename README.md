@@ -1,2 +1,4 @@
 # DipoleML
-Transition dipole predcition from molecular geometry
+Transition dipole prediction from molecular geometry
+
+This is Stefano project.
