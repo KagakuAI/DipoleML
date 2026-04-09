@@ -1,4 +1,10 @@
-# DipoleML
+
+DipoleML - Transition dipole prediction from molecular geometry
+--------------------------------------------------------------------
+
 Transition dipole prediction from molecular geometry
 
-This is Stefano project.
+Literature
+--------------------------------------------------------------------
+
+1. Dipole prediction paper
